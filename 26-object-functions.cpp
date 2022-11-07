@@ -28,7 +28,7 @@ int main() {
     Student student1("Jim", "Business", 2.4);
     Student student2("Pam", "Art", 3.6);
     
-    cout << student1.hasHonors() << endl; // 0(false )
+    cout << student1.hasHonors() << endl; // 0(false)
     
     return 0;
 }
